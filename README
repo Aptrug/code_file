@@ -1,0 +1,5 @@
+If some filename end with with a number, it means they're split between multiple files
+For example, rmmz_managers.js is one file
+while rmmz_objects.js is the combination of rmmz_objects1.js, rmmz_objects2.js, rmmz_objects3.js and rmmz_objects4.js
+
+Just something to keep in mind.
